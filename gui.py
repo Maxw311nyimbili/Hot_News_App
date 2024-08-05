@@ -5,6 +5,7 @@ from PyQt6.QtWidgets import QApplication, QWidget, QVBoxLayout, QLabel, QLineEdi
 import webbrowser
 import gui_util
 
+
 class CheckableButton(QPushButton):
     def __init__(self, text, *args, **kwargs):
         super().__init__(text, *args, **kwargs)
