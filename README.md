@@ -1,4 +1,4 @@
-# News Application
+# Hot News In Town Application
 ## Team members:
 - David Deng III
 - Maxwell Nyimbili
@@ -31,5 +31,4 @@ The News Application is a Python-based desktop application built with PyQt6 that
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/news-application.git
-   cd news-application
+   git clone https://github.com/Maxw311nyimbili/Hot_News_App   cd news-application
