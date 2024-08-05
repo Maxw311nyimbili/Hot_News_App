@@ -2,6 +2,10 @@
 ## Team members:
 - David Deng III
 - Maxwell Nyimbili
+
+### Link to Demo video
+https://youtu.be/CUqXDQykexg
+
 ## Overview
 
 The News Application is a Python-based desktop application built with PyQt6 that allows users to fetch and analyze news articles. It provides functionalities to select news categories and countries, view news articles, and perform trend analysis based on the collected news data.
