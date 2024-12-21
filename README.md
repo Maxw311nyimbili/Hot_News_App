@@ -1,10 +1,8 @@
 # Hot News In Town Application
 ## Team members:
-- David Deng III
-- Maxwell Nyimbili
 
-### Link to Demo video
-https://youtu.be/CUqXDQykexg
+- Maxwell Nyimbili
+- David Deng III
 
 ## Overview
 
